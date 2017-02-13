@@ -476,8 +476,8 @@ h6,
   color: #bcbcbc;
 }
 #features7-1 .iconbox {
-  background-color: #110038;
-  border-color: #110038;
+  background-color: #060015;
+  border-color: #060015;
 }
 #features4-3 .card-subtitle {
   color: #bcbcbc;
@@ -495,6 +495,39 @@ h6,
 #msg-box8-6 .mbr-section-title,
 #msg-box8-6 p {
   color: #fff;
+}
+#features3-a P {
+  text-align: center;
+  color: #ffffff;
+}
+#features3-a H5 {
+  text-align: center;
+  color: #c1c1c1;
+}
+#features3-a H4 {
+  color: #ffffff;
+}
+#testimonials2-c .mbr-section-title {
+  color: #ffffff;
+}
+#testimonials2-c .card-footer > div {
+  color: #ffffff;
+}
+#gallery1-b .mbr-gallery-item > div > span {
+  text-align: center;
+}
+#msg-box2-e .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-e .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#header3-i .mbr-section-title,
+#header3-i .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-i SMALL {
+  color: #2d2d2d;
 }
 #contacts1-0 P {
   color: #ffffff;
