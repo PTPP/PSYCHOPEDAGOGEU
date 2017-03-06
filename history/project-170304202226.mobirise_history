@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "specjalisci.html",
     "name": "Polskie Towarzystwo Psychopedagogiczne",
     "theme": {
       "name": "mobirise3",
@@ -990,14 +990,6 @@
             "Theme"
           ],
           "_name": "features3",
-          "_styles": {
-            "H4": {
-              "color": "#ffffff"
-            },
-            "H5": {
-              "color": "#c1c1c1"
-            }
-          },
           "_anchor": "features3-10",
           "_params": {
             "paddingTop": "1",
@@ -1092,7 +1084,15 @@
           "title6": "mgr Barbara Duch",
           "subtitle6": "psycholog, terapeuta systemowy",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#c1c1c1"
+            }
+          }
         },
         {
           "_styles": {
