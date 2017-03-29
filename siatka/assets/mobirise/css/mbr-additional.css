@@ -408,8 +408,15 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #502c84;
 }
-#header1-1 .mbr-section-title {
-  font-size: 30px;
+#msg-box3-1h .mbr-section-title,
+#msg-box3-1h p {
+  color: #000;
+}
+#msg-box3-1h .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-1h .lead P {
+  color: #cccccc;
 }
 #header3-13 .mbr-section-title,
 #header3-13 .mbr-section-subtitle {
@@ -417,30 +424,6 @@ h6,
 }
 #header3-13 H3 {
   color: #000000;
-}
-#features7-1 .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-1 .iconbox {
-  background-color: #502c84;
-  border-color: #502c84;
-}
-#features4-3 .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-3 .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-}
-#features4-3 P {
-  color: #cccccc;
-}
-#features4-3 H4 {
-  color: #ffffff;
-}
-#msg-box8-6 .mbr-section-title,
-#msg-box8-6 p {
-  color: #fff;
 }
 #features3-a P {
   text-align: center;
@@ -453,33 +436,10 @@ h6,
 #features3-a H4 {
   color: #ffffff;
 }
-#gallery1-b .mbr-gallery-item > div > span {
-  text-align: center;
-}
 #msg-box2-e .mbr-section-title {
   color: #000000;
 }
 #msg-box2-e .mbr-section-subtitle {
-  color: #000000;
-}
-#msg-box1-1a H3 {
-  color: #ffffff;
-}
-#header3-i .mbr-section-title,
-#header3-i .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-i SMALL {
-  color: #efefef;
-}
-#header3-i H3 {
-  color: #ffffff;
-}
-#header3-1d .mbr-section-title,
-#header3-1d .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1d H3 {
   color: #000000;
 }
 #msg-box1-1g H3 {
