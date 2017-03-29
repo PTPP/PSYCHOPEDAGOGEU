@@ -29,7 +29,10 @@
     "cookiesAlert": "",
     "uniqCompNum": 56,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "specjalisci.html": {
@@ -149,7 +152,7 @@
           "title1": "mgr Dawid Karol Kołodziej",
           "subtitle1": "Prezes Zarządu Głównego PTPP<br>pedagog, terapeuta, life &amp; business coach",
           "caption1": "bolesławiec / wrocław / świdnica / online",
-          "button1": "<a data-app-btn=\"true\" href=\"http://dkk.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mieniek-600x1067.jpg",
@@ -165,7 +168,7 @@
           "title2": "Justyna Janina Mieniek",
           "subtitle2": "Zastępca Prezesa Zarządu Głównego PTPP<br>terapeuta, life coach",
           "caption2": "bolesławiec &nbsp;/ online",
-          "button2": "<a data-app-btn=\"true\" href=\"http://jjm.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://jjm.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mikolajewicz-600x1067.jpg",
@@ -181,7 +184,7 @@
           "title3": "Mateusz Mikołajewicz",
           "subtitle3": "Sekretarz Zarządu Głównego PTPP<br>psychodietetyk, died coach",
           "caption3": "bolesławiec / wrocław / świdnica / online",
-          "button3": "<a data-app-btn=\"true\" href=\"https//mm.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mm.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
