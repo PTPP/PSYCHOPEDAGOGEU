@@ -27,7 +27,7 @@
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-50260950-3', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "",
-    "uniqCompNum": 65,
+    "uniqCompNum": 64,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "publishFtpPath": "public_html",
@@ -388,6 +388,13 @@
             "Theme"
           ],
           "_name": "content1",
+          "_anchor": "content1-1o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Bolesławiec, dnia 09 marca 2017</p><div><br></div><div>Rzadko bywam w teatrze, ale ilekroć uda mi się zajrzeć na jakikolwiek spektakl jestem co najmniej pod wrażeniem. Zawsze wtedy powtarzam sobie, że muszę zmienić swój nawyk i rzeczywiście częściej zasiadać na teatralnej widowni. Wydaje mi się, że tym razem słowa dotrzymam.</div><div>Dnia 4 marca w popołudniowych godzinach miałem okazję zobaczyć dwa spektakle grup \"Re-aktor” oraz „Z jednej gliny”. Obie grupy charakteryzowało to, iż była to młodzież szkolna, uczęszczająca do liceum, czy gimnazjum. Jedni mają już za sobą wiele występów, inni natomiast wciąż stawiają pierwsze kroki na deskach teatru.</div><div><br></div><div>Interpretację treści obu spektakli chciałbym pozostawić licznie zgromadzonej, wypełnionej po brzegi Teatru Starego widowni, która swoją liczebnością zaskoczyła nawet samych organizatorów. Chciałbym jednak skupić się na samych aktorach. Byłem naprawdę zdumiony, jak ludzie w tak młodym wieku fantastycznie czują się na scenie, z jaką pasją i zaangażowaniem oddają się swojej roli. Mieli tą pewność siebie, tą wiarę w postać, w którą się wcielają i bez żadnych kompleksów przejmowali jej charakter. Mówiąc o pewności siebie nie chciałbym mylić tego z zarozumiałością, absolutnie! Jest to swego rodzaju swoboda jaka bije od nich już na pierwszy rzut oka, swoboda, której części z nas, w wielu życiowych sytuacjach brakuje. Zmierzam do tego, iż w ich przypadku, próby teatralne i same spektakle niesamowicie wpływają na ich osobowość, na ich rozwój. Bo przecież czy istnieje lepszy sposób na poznanie czegoś, niż przez doświadczenie? Oni, wczuwając się w liczne role, poznając losy postaci, przeżywając to i stając w ich sytuacji doskonale rozumieją wszystkie te zdarzenia, czują ich ciężar, brzemię. Możliwość postawienia się w czyjejś sytuacji ogromnie ich rozwija, ubogaca, a sam fakt występowania przed publicznością daje im bardzo stabilny fundament do pracy nad pewnością siebie.</div><div><br></div><div>Dlaczego podkreślam „pewność siebie”? Spójrzmy, jak wiele mówi się o kursach dotyczących autoprezentacji, rozmowy o pracę, przemawiania do grup. Te wszystkie kursy zazwyczaj łączy jedna, wspólna cecha. Zanim przejdzie się do, nazwijmy to „technicznych niuansów” autoprezentacji, prowadzenia konferencji, sposobów przemawiania do grup zorganizowanych, zazwyczaj zaczyna się od budowania pewności siebie, od budowania swego rodzaju obycia się z widokiem całej masy wpatrzonych w nas par oczu. Jakakolwiek presja, świadomość, że jest się obserwowanym często plącze ręce, pęta myśli. Pokolenie przyzwyczajone do kontaktu przez wszelkiego rodzaju urządzenia: telefony, komunikatory społecznościowe, często ma problem w odnalezieniu się w znacznie odmiennej codzienności. Dlatego może nie sam teatr, lecz umiejętności związane z wystąpieniami publicznymi jest to coś, z czym młody człowiek powinien opuszczać ostatnie etapy edukacji.</div><div><br></div><div>Czy to znaczy, że każdy z nas powinien zapisać się do grupy teatralnej? Oczywiście, że nie jest to możliwe. Czy to oznacza, że każda szkoła powinna mieć własną grupę teatralną? Na pewno będzie to trudne do zrealizowania, choć nie jest to niewykonalne. Bardziej chodzi mi o to, jak często w szkołach skupiamy się na wiedzy, na rozwiązywaniu testów, a jak mało uwagi przywiązujemy do osobowości danego ucznia, do jego pewności siebie, do cech, które pomogą mu w życiu jako człowiekowi o danej roli społecznej. Teatr jest czymś bardzo wartościowym, bo wszelkie odbyte tam doświadczenia wpływają na jego uczestnika, na aktora. Czy w szkołach ucząc się wierszyka budujemy pewność siebie, sprawiamy, że ktoś lepiej znosi stres związany ze skupieniem uwagi otoczenia na sobie? Moim zdaniem, to już jakiś mały krok na przód. A jasełka szkolne, dzień babci, dziadka, teatrzyki? One na pewno pozytywnie działają na dzieci. Jak natomiast owocnie wpłynąć na pozostałą część klasy? Warto zadać sobie pytanie, czy istnieje jakiś złoty środek na to, by działać na rozwijanie swobody o której mówiłem, albo inaczej... Czy ktoś w ogóle tego złotego środka poszukuje?</div>",
           "_styles": {
             "P": {
               "text-align": "right"
@@ -395,39 +402,7 @@
             "DIV": {
               "text-align": "left"
             }
-          },
-          "_anchor": "content1-1o",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Bolesławiec, dnia 09 marca 2017</p><div><br></div><div>Rzadko bywam w teatrze, ale ilekroć uda mi się zajrzeć na jakikolwiek spektakl jestem co najmniej pod wrażeniem. Zawsze wtedy powtarzam sobie, że muszę zmienić swój nawyk i rzeczywiście częściej zasiadać na teatralnej widowni. Wydaje mi się, że tym razem słowa dotrzymam.</div><div>Dnia 4 marca w popołudniowych godzinach miałem okazję zobaczyć dwa spektakle grup \"Re-aktor” oraz „Z jednej gliny”. Obie grupy charakteryzowało to, iż była to młodzież szkolna, uczęszczająca do liceum, czy gimnazjum. Jedni mają już za sobą wiele występów, inni natomiast wciąż stawiają pierwsze kroki na deskach teatru.</div><div><br></div><div>Interpretację treści obu spektakli chciałbym pozostawić licznie zgromadzonej, wypełnionej po brzegi Teatru Starego widowni, która swoją liczebnością zaskoczyła nawet samych organizatorów. Chciałbym jednak skupić się na samych aktorach. Byłem naprawdę zdumiony, jak ludzie w tak młodym wieku fantastycznie czują się na scenie, z jaką pasją i zaangażowaniem oddają się swojej roli. Mieli tą pewność siebie, tą wiarę w postać, w którą się wcielają i bez żadnych kompleksów przejmowali jej charakter. Mówiąc o pewności siebie nie chciałbym mylić tego z zarozumiałością, absolutnie! Jest to swego rodzaju swoboda jaka bije od nich już na pierwszy rzut oka, swoboda, której części z nas, w wielu życiowych sytuacjach brakuje. Zmierzam do tego, iż w ich przypadku, próby teatralne i same spektakle niesamowicie wpływają na ich osobowość, na ich rozwój. Bo przecież czy istnieje lepszy sposób na poznanie czegoś, niż przez doświadczenie? Oni, wczuwając się w liczne role, poznając losy postaci, przeżywając to i stając w ich sytuacji doskonale rozumieją wszystkie te zdarzenia, czują ich ciężar, brzemię. Możliwość postawienia się w czyjejś sytuacji ogromnie ich rozwija, ubogaca, a sam fakt występowania przed publicznością daje im bardzo stabilny fundament do pracy nad pewnością siebie.</div><div><br></div><div>Dlaczego podkreślam „pewność siebie”? Spójrzmy, jak wiele mówi się o kursach dotyczących autoprezentacji, rozmowy o pracę, przemawiania do grup. Te wszystkie kursy zazwyczaj łączy jedna, wspólna cecha. Zanim przejdzie się do, nazwijmy to „technicznych niuansów” autoprezentacji, prowadzenia konferencji, sposobów przemawiania do grup zorganizowanych, zazwyczaj zaczyna się od budowania pewności siebie, od budowania swego rodzaju obycia się z widokiem całej masy wpatrzonych w nas par oczu. Jakakolwiek presja, świadomość, że jest się obserwowanym często plącze ręce, pęta myśli. Pokolenie przyzwyczajone do kontaktu przez wszelkiego rodzaju urządzenia: telefony, komunikatory społecznościowe, często ma problem w odnalezieniu się w znacznie odmiennej codzienności. Dlatego może nie sam teatr, lecz umiejętności związane z wystąpieniami publicznymi jest to coś, z czym młody człowiek powinien opuszczać ostatnie etapy edukacji.</div><div><br></div><div>Czy to znaczy, że każdy z nas powinien zapisać się do grupy teatralnej? Oczywiście, że nie jest to możliwe. Czy to oznacza, że każda szkoła powinna mieć własną grupę teatralną? Na pewno będzie to trudne do zrealizowania, choć nie jest to niewykonalne. Bardziej chodzi mi o to, jak często w szkołach skupiamy się na wiedzy, na rozwiązywaniu testów, a jak mało uwagi przywiązujemy do osobowości danego ucznia, do jego pewności siebie, do cech, które pomogą mu w życiu jako człowiekowi o danej roli społecznej. Teatr jest czymś bardzo wartościowym, bo wszelkie odbyte tam doświadczenia wpływają na jego uczestnika, na aktora. Czy w szkołach ucząc się wierszyka budujemy pewność siebie, sprawiamy, że ktoś lepiej znosi stres związany ze skupieniem uwagi otoczenia na sobie? Moim zdaniem, to już jakiś mały krok na przód. A jasełka szkolne, dzień babci, dziadka, teatrzyki? One na pewno pozytywnie działają na dzieci. Jak natomiast owocnie wpłynąć na pozostałą część klasy? Warto zadać sobie pytanie, czy istnieje jakiś złoty środek na to, by działać na rozwijanie swobody o której mówiłem, albo inaczej... Czy ktoś w ogóle tego złotego środka poszukuje?</div>"
-        },
-        {
-          "alias": "facebook-comments",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-1s",
-          "_params": {
-            "postsNumber": "3",
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f",
-            "socialFacebook": true,
-            "socialGoogle": false,
-            "shortName": "",
-            "socialDisqus": false
-          },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+          }
         },
         {
           "_tags": [
