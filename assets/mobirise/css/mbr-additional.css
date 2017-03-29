@@ -472,6 +472,13 @@ h6,
 #header1-1 .mbr-section-title {
   font-size: 30px;
 }
+#header3-13 .mbr-section-title,
+#header3-13 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-13 H3 {
+  color: #000000;
+}
 #features7-1 .card-subtitle {
   color: #bcbcbc;
 }
@@ -516,6 +523,9 @@ h6,
 #msg-box2-e .mbr-section-subtitle {
   color: #000000;
 }
+#msg-box1-1a H3 {
+  color: #ffffff;
+}
 #header3-i .mbr-section-title,
 #header3-i .mbr-section-subtitle {
   text-align: center;
@@ -526,7 +536,7 @@ h6,
 #header3-i H3 {
   color: #ffffff;
 }
-#contacts1-0 P {
+#contacts3-18 SPAN {
   color: #ffffff;
 }
 #menu-o .hide-buttons .nav-btn {
@@ -597,6 +607,12 @@ h6,
 #msg-box8-z .mbr-section-title {
   font-size: 32px;
 }
+#features3-1b H4 {
+  color: #ffffff;
+}
+#features3-1b H5 {
+  color: #c1c1c1;
+}
 #features3-10 H4 {
   color: #ffffff;
 }
@@ -620,6 +636,6 @@ h6,
 #features3-11 H4 {
   color: #ffffff;
 }
-#contacts1-y P {
+#contacts3-18 SPAN {
   color: #ffffff;
 }
