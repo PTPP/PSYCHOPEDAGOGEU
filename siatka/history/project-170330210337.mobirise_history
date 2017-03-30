@@ -297,7 +297,7 @@
           "title3": "Katarzyna Sulik",
           "subtitle3": "pedagog, terapeuta, polonista<br>",
           "caption3": "bolesławiec &nbsp;/ świdnica / online",
-          "button3": "<a data-app-btn=\"true\" href=\"http://ks.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://ks.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/esz-600x1066.jpg",
