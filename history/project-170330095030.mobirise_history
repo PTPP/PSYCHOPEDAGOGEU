@@ -476,7 +476,7 @@
             }
           },
           "title1": "Bolesławiec Śląski",
-          "subtitle1": "Poradnia Psychopedagogiczna",
+          "subtitle1": "Siedziba Zarządu Głównego /&nbsp;Poradnia Psychopedagogiczna",
           "caption1": "59-700 Bolesławiec<br>ul. Tysiaclecia 2<br><br>Rejestracja telefoniczna lub WhatsApp: (+48) 733 379 538<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -492,7 +492,7 @@
             }
           },
           "title2": "Wrocław",
-          "subtitle2": "Gabinet Terapeutyczny<br>(Mała Uczelnia)",
+          "subtitle2": "Gabinet Terapeutyczny",
           "caption2": "53-534 Wrocław<br>ul. Inżynierska 45/U20<br><br>Rejestracja telefoniczna:  (+48) 531 196 914",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -508,7 +508,7 @@
             }
           },
           "title3": "Świdnica",
-          "subtitle3": "Gabinet Terapeutyczny<br>(Społeczna Akademia Nauk)",
+          "subtitle3": "Gabinet Terapeutyczny",
           "caption3": "58-100 Świdnica<br>ul Franciszkańska 7<br><br>Rejestracja telefoniczna: (+48)&nbsp;725 097 429",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -644,7 +644,7 @@
               }
             ],
             "spacing": "0",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
