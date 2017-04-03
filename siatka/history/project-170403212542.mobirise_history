@@ -29,7 +29,10 @@
     "cookiesAlert": "",
     "uniqCompNum": 56,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "specjalisci.html": {
@@ -181,7 +184,7 @@
           "title3": "Mateusz Mikołajewicz",
           "subtitle3": "Sekretarz Zarządu Głównego PTPP<br>psychodietetyk, diet coach",
           "caption3": "bolesławiec / wrocław / świdnica / online",
-          "button3": "<a data-app-btn=\"true\" href=\"http://mm.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http//mm.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
