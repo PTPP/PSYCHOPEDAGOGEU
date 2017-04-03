@@ -221,7 +221,7 @@
           },
           "title5": "DIagnostyka",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Zajmujemy się diagnostyką zaburzeń społecznych, emocjonalnych i rozwojowych. Specjalizujemy się również w diagnozowaniu zaburzeń ze spektrum autyzmu.",
+          "caption5": "Zajmujemy się diagnstyką zaburzeń społecznych, emocjonalnych i rozwojowych. Specjalizujemy się również w diagnozowaniu zaburzeń ze spektrum autyzmu.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
@@ -351,7 +351,7 @@
           },
           "title4": "Usługi prawnicze",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Zespół naszych prawników jest do Państwa dyspozycji. Zachęcamy do skorzystania z pomocy prawnej. Pomagamy przy sprawach rodzinno-wychowawczych.",
+          "caption4": "Zespół naszych prawników jest do Państwa dyspozycji. Zachecamy do skorzystania z pomocy prawnej. Pomagamy przy sprawach rodzinno - wychowawczych.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -368,7 +368,7 @@
           },
           "title5": "Zajęcia rewalidacyjno - animacyjne",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Specjalnie na potrzeby osób z zaburzeniami oraz osób z niepełnosprawnością organizujemy dopasowane zajęcia.",
+          "caption5": "Specjalnie na porzeby osób z zaburzeniami oraz osób z niepełnosprawnością organizujemy dopasowane zajęcia.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
@@ -416,10 +416,10 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButton": true
           },
           "title": "Pomagamy i pracujemy!",
-          "text": "<p>Działamy wszędzie tam gdzie jest to możliwe! Realizujemy uchwalone działania statutowe. Nie boimy się wyzwań i stawiamy czoła trudnościom jakie niesie ze sobą funkcjonowanie w społeczeństwie.</p><p>Nasza praca wiąże się wieloma kosztami. Pomóż nam i naszym podopiecznym!<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Potrzebujemy Twojego wsparcia na realizację terapii dla osób potrzebujących!</span></p><p><b>Każda wpłacona złotówka zostanie przekazana na między innymi na:</b></p><p>terapie indywidualne dla dzieci z zaburzeniami rozwojowymi, terapię indywidualną osób dorosłych, terapie grupowe, projekty edukacyjno-terapeutyczne &nbsp;na rzecz lokalnych społeczności, pomoc prawną itp.</p><p><b>Konto Polskiego Towarzystwa Psychopedaogogicznego<br></b><b style=\"font-size: 1.07rem; line-height: 1.5;\">mBank 15 1140 2004 0000 3102 7598 0564</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">WPŁAĆ KWOTĘ NA FUNDUSZE SPOŁECZNE PTPP I ZOSTAŃ NASZYM DONATOREM!<br>KAŻDA ZŁOTÓWKA SIĘ LICZY!</b></p>",
+          "text": "<p>Działamy wszędzie tam gdzie jest to możliwe! Realizujemy uchwalone działania statutowe. Nie boimy się wyzwań i stawiamy czoła trudnościom jakie niesie ze sobą funkcjonowanie w społeczeństwie.</p><p>Nasza praca wiąże się wieloma kosztami. Pomóż nam i naszym podopiecznym!<br><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Potrzebujemy Twojego wsparcia na realizację terapii dla osób potrzebujących!</b></span></p><p><b>Każda wpłacona złotówka zostanie przekazana na między innymi na:</b></p><p><b>terapie indywidualne dla dzieci z zaburzeniami rozwojowymi, terapię indywidualną osób dorosłych, terapie grupowe, projekty edukacyjno-terapeutyzczne na rzecz lokalnych społeczności, pomoc prawną itd.</b></p><p><br></p><p><b>Konto Polskiego Towarzystwa Psychopedaogicznego<br></b><b style=\"font-size: 1.07rem; line-height: 1.5;\">mBank 15 1140 2004 0000 3102 7598 0564</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#msg-box8-6\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>WPŁAĆ KWOTĘ NA FUNDUSZE SPOŁECZNE</a>"
         },
         {
@@ -1145,8 +1145,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.psychopedagog.eu\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Polskie Towarzystwo Psychopedagogiczne</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-13\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>OFERTA USŁUG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-6\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>WPŁAĆ DOTACJĘ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-a\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>NASZE PLACÓWKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-e\"><span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\"></span>DOŁĄCZ DO NAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-1a\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NASI SPECJALIŚCI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-i\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn\"></span>PARTNERZY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1d\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>AKTUALNOŚCI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-1g\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>PUBLIKACJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-18\" aria-expanded=\"false\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Polskie Towarzystwo Psychopedagogiczne</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-13\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>OFERTS USŁUG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-6\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>WPŁAĆ DOTACJĘ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-a\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>NASZE PLACÓWKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-e\"><span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\"></span>DOŁĄCZ DO NAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-1a\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NASI SPECJALIŚCI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-i\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn\"></span>PARTNERZY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1d\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>AKTUALNOŚCI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-1g\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>PUBLIKACJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-18\" aria-expanded=\"false\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }

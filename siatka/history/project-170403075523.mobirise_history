@@ -103,11 +103,11 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "<p>Profile specjalistów</p>",
-          "meta": "wraz z opisanymi stanowiskami, specjalnościami i miejscami pracy"
+          "meta": "wraz z krótkimi opisami"
         },
         {
           "_tags": [
@@ -121,7 +121,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -167,7 +167,7 @@
           },
           "title2": "Justyna Janina Mieniek",
           "subtitle2": "Zastępca Prezesa Zarządu Głównego PTPP<br>terapeuta, life coach",
-          "caption2": "bolesławiec &nbsp;/ świdnica / online",
+          "caption2": "bolesławiec &nbsp;/ online",
           "button2": "<a data-app-btn=\"true\" href=\"http://jjm.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
           "media3": {
             "image": {
@@ -182,7 +182,7 @@
             }
           },
           "title3": "Mateusz Mikołajewicz",
-          "subtitle3": "Sekretarz Zarządu Głównego PTPP<br>psychodietetyk, diet coach",
+          "subtitle3": "Sekretarz Zarządu Głównego PTPP<br>psychodietetyk, died coach",
           "caption3": "bolesławiec / wrocław / świdnica / online",
           "button3": "<a data-app-btn=\"true\" href=\"http//mm.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
           "media4": {
@@ -279,7 +279,7 @@
             }
           },
           "title2": "mgr Barbara Duch",
-          "subtitle2": "psycholog, terapeuta systemowy",
+          "subtitle2": "psycholog, ,&nbsp;terapeuta systemowy",
           "caption2": "bolesławiec / wrocław / online",
           "button2": "<a data-app-btn=\"true\" href=\"http://bd.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
           "media3": {
@@ -541,7 +541,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.psychopedagog.eu/biblioteka/publikacje.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-bookmark mbr-iconfont mbr-iconfont-btn\"></span>POCZYTAJ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"biblioteka/publikacje.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-bookmark mbr-iconfont mbr-iconfont-btn\"></span>POCZYTAJ</a>",
           "text": "Zobacz naszą biblioteczkę z publikacjami. Znajdziesz tam ciekawe teksty, które mogą Tobie pomóc, czegoś nauczyć. Zobacz co piszą nasi specjaliści!",
           "title": "NASZE PUBLIKACJE"
         },
@@ -733,7 +733,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.psychopedagog.eu\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Polskie Towarzystwo Psychopedagogiczne</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Polskie Towarzystwo Psychopedagogiczne</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.psychopedagog.eu\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>POWRÓT DO GŁÓWNEJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"specjalisci.html#header3-13\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NASI SPECJALIŚCI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"specjalisci.html#features3-a\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>NASZE PLACÓWKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"specjalisci.html#msg-box2-e\"><span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\"></span>DOŁĄCZ DO NAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"specjalisci.html#msg-box1-1g\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>PUBLIKACJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
