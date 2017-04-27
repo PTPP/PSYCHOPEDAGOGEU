@@ -304,16 +304,16 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "http://bl.psychopedagog.eu",
+              "link": "http://esz.psychopedagog.eu",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title4": "mgr Barbara Lendzian",
-          "subtitle4": "pedagog, terapeuta",
+          "title4": "mgr Ewa Szylkiewicz",
+          "subtitle4": "pedagog, terapeuta logopedycny, terapeuta manualny",
           "caption4": "bolesławiec &nbsp;/ online",
-          "button4": "<a data-app-btn=\"true\" href=\"http://bl.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://esz.psychopedagog.eu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WWW</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mk-600x1067.jpg",
@@ -503,7 +503,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.dropbox.com/s/zkfbluj6rczqo6j/statut.pdf?dl=0\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-layers mbr-iconfont mbr-iconfont-btn\"></span>STATUT PTPP</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.dropbox.com/s/cfyxfk1zhfepzmy/DEKLRACAJCA-CZLONKOWSKA.pdf?dl=0\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-layers mbr-iconfont mbr-iconfont-btn\"></span>DEKLARACJA CZŁONKOWSKA</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.dropbox.com/s/aariv9kjmpw30ra/Regulamin%20op%C5%82acania%20sk%C5%82adek%202.pdf?dl=0\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-layers mbr-iconfont mbr-iconfont-btn\"></span>REGULAMIN OPŁACANIA SKŁADEK</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-layers mbr-iconfont mbr-iconfont-btn\"></span>STATUT PTPP</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-layers mbr-iconfont mbr-iconfont-btn\"></span>DEKLRACJA CZŁONKOWSKA</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-layers mbr-iconfont mbr-iconfont-btn\"></span>REGULAMIN OPŁACANIA SKŁADEK</a> ",
           "title": "DOŁĄCZ DO NAS!",
           "text": "Aby zostać członkiem wystarczy wypełnić deklrację członkowską, usyskać popracie dwóch innych członków oraz zostać zatwierdzonym przez Zarząd Główny PTPP."
         },
@@ -723,7 +723,7 @@
               "src": "@PROJECT_PATH@/assets/images/logodostron-130x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://www.psychopedagog.eu",
+              "link": "https://www.psychopedagog.eu",
               "title": "",
               "linkInNewWindow": false
             },
@@ -733,7 +733,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.psychopedagog.eu\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Polskie Towarzystwo Psychopedagogiczne</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.psychopedagog.eu\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Polskie Towarzystwo Psychopedagogiczne</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.psychopedagog.eu\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>POWRÓT DO GŁÓWNEJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"specjalisci.html#header3-13\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NASI SPECJALIŚCI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"specjalisci.html#features3-a\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>NASZE PLACÓWKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"specjalisci.html#msg-box2-e\"><span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\"></span>DOŁĄCZ DO NAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"specjalisci.html#msg-box1-1g\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>PUBLIKACJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]

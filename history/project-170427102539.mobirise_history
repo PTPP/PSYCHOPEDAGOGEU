@@ -27,9 +27,12 @@
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-50260950-3', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "",
-    "uniqCompNum": 54,
+    "uniqCompNum": 53,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -665,7 +668,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-1h",
+          "_anchor": "msg-box2-e",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -686,7 +689,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.dropbox.com/s/zkfbluj6rczqo6j/statut.pdf?dl=0\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-layers mbr-iconfont mbr-iconfont-btn\"></span>STATUT PTPP</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.dropbox.com/s/cfyxfk1zhfepzmy/DEKLRACAJCA-CZLONKOWSKA.pdf?dl=0\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-layers mbr-iconfont mbr-iconfont-btn\"></span>DEKLARACJA CZŁONKOWSKA</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.dropbox.com/s/aariv9kjmpw30ra/Regulamin%20op%C5%82acania%20sk%C5%82adek%202.pdf?dl=0\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-layers mbr-iconfont mbr-iconfont-btn\"></span>REGULAMIN OPŁACANIA SKŁADEK</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-layers mbr-iconfont mbr-iconfont-btn\"></span>STATUT PTPP</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-layers mbr-iconfont mbr-iconfont-btn\"></span>DEKLRACJA CZŁONKOWSKA</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-layers mbr-iconfont mbr-iconfont-btn\"></span>REGULAMIN OPŁACANIA SKŁADEK</a> ",
           "title": "DOŁĄCZ DO NAS!",
           "text": "Aby zostać członkiem wystarczy wypełnić deklrację członkowską, usyskać popracie dwóch innych członków oraz zostać zatwierdzonym przez Zarząd Główny PTPP."
         },
@@ -914,7 +917,7 @@
             "overlayOpacity": 0.6,
             "overlayColor": "#7e9b9f"
           },
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+          "loadsvg": "@ADDONS_PATH@/social-feed/feed/assets/loading.svg"
         },
         {
           "_tags": [
@@ -1132,7 +1135,7 @@
               "src": "@PROJECT_PATH@/assets/images/logodostron-130x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://www.psychopedagog.eu",
+              "link": "https://www.psychopedagog.eu",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1142,8 +1145,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.psychopedagog.eu\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Polskie Towarzystwo Psychopedagogiczne</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-13\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>OFERTA USŁUG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-6\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>WPŁAĆ DOTACJĘ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-a\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>NASZE PLACÓWKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-1h\"><span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\"></span>DOŁĄCZ DO NAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-1a\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NASI SPECJALIŚCI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-i\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn\"></span>PARTNERZY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1d\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>AKTUALNOŚCI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-1g\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>PUBLIKACJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-18\" aria-expanded=\"false\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.psychopedagog.eu\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Polskie Towarzystwo Psychopedagogiczne</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-13\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>OFERTA USŁUG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-6\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>WPŁAĆ DOTACJĘ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-a\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>NASZE PLACÓWKI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-e\"><span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\"></span>DOŁĄCZ DO NAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-1a\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>NASI SPECJALIŚCI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-i\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn\"></span>PARTNERZY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1d\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>AKTUALNOŚCI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-1g\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>PUBLIKACJE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-18\" aria-expanded=\"false\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }
