@@ -29,7 +29,10 @@
     "cookiesAlert": "",
     "uniqCompNum": 54,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -914,7 +917,7 @@
             "overlayOpacity": 0.6,
             "overlayColor": "#7e9b9f"
           },
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+          "loadsvg": "@ADDONS_PATH@/social-feed/feed/assets/loading.svg"
         },
         {
           "_tags": [
