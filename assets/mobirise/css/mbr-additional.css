@@ -475,11 +475,27 @@ h6,
 #header3-i H3 {
   color: #ffffff;
 }
+#header3-1i .mbr-section-title,
+#header3-1i .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1i SMALL {
+  color: #000000;
+}
+#header3-1i H3 {
+  color: #000000;
+}
+#msg-box4-1k H3 {
+  color: #ffffff;
+}
 #header3-1d .mbr-section-title,
 #header3-1d .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1d H3 {
+  color: #000000;
+}
+#header3-1d SMALL {
   color: #000000;
 }
 #msg-box1-1g H3 {
