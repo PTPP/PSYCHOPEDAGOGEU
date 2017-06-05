@@ -570,6 +570,9 @@ h6,
 #content1-1u DIV {
   text-align: left;
 }
+#content1-1u H1 {
+  text-align: center;
+}
 #msg-box1-1w H3 {
   color: #ffffff;
 }

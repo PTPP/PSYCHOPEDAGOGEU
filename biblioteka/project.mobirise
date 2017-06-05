@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "publikacje.html",
+    "currentPage": "dekalog-psychopedagoga.html",
     "versionFirst": "3.11.1",
     "versionPublish": "3.12.1",
     "name": "Biblioteka PTPP",
@@ -708,6 +708,9 @@
             },
             "DIV": {
               "text-align": "left"
+            },
+            "H1": {
+              "text-align": "center"
             }
           },
           "_anchor": "content1-1u",
@@ -716,7 +719,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Bolesławiec, dnia 05 czerwaca 2017</p><div><br></div><div>1. Mieć zaufanie u ludzi (dotrzymywać tajemnicy) - niejednokrotnie pedagog spotyka się z koniecznością poznawania osobistych, poufnych informacji dotyczących jego odbiorców. Musi więc być on świadom, że wiedza tak łączy się z odpowiedzialnością i należy zachować ją jedynie dla siebie.  Ujawnienie wiadomości objętych tajemnicą jest dopuszczalne jedynie wówczas, gdy:</div><div>&nbsp;a) zachowanie tajemnicy może prowadzić w przyszłości do poważnego zagrożenia czyjegoś bezpieczeństwa lub innych dóbr osobistych;&nbsp;</div><div>b) zachowanie tajemnicy może prowadzić w przyszłości do naruszenia prawa;&nbsp;</div><div>c) ujawnienie poufnych informacji innemu pedagogowi, psychologowi lub zespołowi specjalistów jest niezbędne dla zapewniania odpowiedniej skuteczności oddziaływań;</div><div>d) ujawnienie poufnych informacji innemu specjaliście, co umożliwi świadczenie niezbędnej profesjonalnej pomocy.</div><div>2. Nieustannie poszerzać swoją wiedzę – świat pędzi do przodu więc lepiej nie zostawać w tyle, trzeba ciągle być na bieżąco by jak najskuteczniej pomagać.</div><div>3.  Odstępować od działań zawodowych, jeżeli osobista sytuacja psychiczna lub fizyczna lub inne okoliczności mogą istotnie obniżyć jakość wykonywanej pracy.</div><div>4. Dokładać starań, aby jak najlepiej poznać problemy, możliwości i inne uwarunkowania podopiecznego, i aby najtrafniej jak to możliwe dostosowywać cele i metody swoich działań do jego indywidualnych potrzeb i możliwości.</div><div>5. Nie dawać ponosić się emocjom, zawsze być zrównoważonym psychicznie.</div><div>6. Być obiektywnym w swojej pracy.&nbsp;</div><div>7. Nie oceniać ludzi poprzez stereotypy.</div><div>8. Pamiętać że pedagog jest dla podopiecznego, a nie podopieczny dla pedagoga.&nbsp;</div><div>9. Korzystać z wiedzy i doświadczeń innych oraz dzielić  się swoją wiedzą.</div><div>10. Podchodzić do ludzi z miłością i chęcią pomocy.</div>"
+          "text": "<p>Bolesławiec, dnia 05 czerwaca 2017</p><div><br></div><h1>1. </h1><div>Mieć zaufanie u ludzi (dotrzymywać tajemnicy) - niejednokrotnie pedagog spotyka się z koniecznością poznawania osobistych, poufnych informacji dotyczących jego odbiorców. Musi więc być on świadom, że wiedza tak łączy się z odpowiedzialnością i należy zachować ją jedynie dla siebie.  Ujawnienie wiadomości objętych tajemnicą jest dopuszczalne jedynie wówczas, gdy:</div><div><br></div><div>&nbsp;a) zachowanie tajemnicy może prowadzić w przyszłości do poważnego zagrożenia czyjegoś bezpieczeństwa lub innych dóbr osobistych;&nbsp;</div><div>b) zachowanie tajemnicy może prowadzić w przyszłości do naruszenia prawa;&nbsp;</div><div>c) ujawnienie poufnych informacji innemu pedagogowi, psychologowi lub zespołowi specjalistów jest niezbędne dla zapewniania odpowiedniej skuteczności oddziaływań;</div><div>d) ujawnienie poufnych informacji innemu specjaliście, co umożliwi świadczenie niezbędnej profesjonalnej pomocy.</div><div><br></div><h1>2.</h1><div>Nieustannie poszerzać swoją wiedzę – świat pędzi do przodu więc lepiej nie zostawać w tyle, trzeba ciągle być na bieżąco by jak najskuteczniej pomagać.</div><div><br></div><h1>3.</h1><div> </div><div> </div><div><br></div><div>Odstępować od działań zawodowych, jeżeli osobista sytuacja psychiczna lub fizyczna lub inne okoliczności mogą istotnie obniżyć jakość wykonywanej pracy.</div><div><br></div><h1>4. </h1><div><br></div><div>Dokładać starań, aby jak najlepiej poznać problemy, możliwości i inne uwarunkowania podopiecznego, i aby najtrafniej jak to możliwe dostosowywać cele i metody swoich działań do jego indywidualnych potrzeb i możliwości.</div><div><br></div><h1>5. </h1><div><br></div><div>Nie dawać ponosić się emocjom, zawsze być zrównoważonym psychicznie.</div><div><br></div><h1>6. </h1><div><br></div><div>Być obiektywnym w swojej pracy.&nbsp;</div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><h1><span style=\"font-size: 1.07rem; line-height: 1.5;\">7.&nbsp;</span></h1><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Nie oceniać ludzi poprzez stereotypy.</span><br></div><div><br></div><h1>8. </h1><div><br></div><div>Pamiętać że pedagog jest dla podopiecznego, a nie podopieczny dla pedagoga.&nbsp;</div><div><br></div><h1>9. </h1><div><br></div><div>Korzystać z wiedzy i doświadczeń innych oraz dzielić  się swoją wiedzą.</div><div><br></div><h1>10. </h1><div><br></div><div>Podchodzić do ludzi z miłością i chęcią pomocy.</div>"
         },
         {
           "alias": "facebook-comments",
