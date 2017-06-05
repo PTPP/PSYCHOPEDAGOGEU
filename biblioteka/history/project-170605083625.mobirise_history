@@ -29,7 +29,10 @@
     "cookiesAlert": "",
     "uniqCompNum": 71,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "publikacje.html": {
@@ -107,7 +110,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h2><b>Publikację szerokie</b></h2><ol><li>Zgwałcenie jako przestępstwa przeciwko wolności seksualnej i obyczajowości, mgr Dawid Karol Kołodziej, Bolesławiec 2016. <a href=\"https://www.dropbox.com/s/yrazxj8oanswtc4/gwalt-ptpp-dkk.pdf?dl=0\">[PDF]</a></li></ol><p><br></p><h2><b>Publikacje wąskie</b></h2><ol><li>Wizyta w starym teatrze, Damian Widera, Bolesławiec 09 marca 2017. <a href=\"https://1drv.ms/w/s!AvmU_GTs06z6gYRVIG1eWbw2Fg1nMg\">[DOC]</a> <a href=\"wizyta-w-starym-teatrze\">[WWW]</a><br><br></li></ol><h2>Publikacje pozostałe</h2><ol><li>Raport z ewaluacji wewnętrznej w ramach projektu \"<i>Rozpędzony Wózek Hejtu. Tolerujmy Niepełnosprawnych!</i>\", Justyna Janina Mieniek, Bolesławiec 2015.&nbsp;<a href=\"https://www.dropbox.com/home/Folder%20zespo%C5%82u%20PTPP/DOKUMENTY%20PUBLIKACJE?preview=Ewaluacja+w%C3%B3%C5%BCek-hejtu.pdf\">[PDF]</a><br><br></li></ol><h2>Dokumenty PTPP</h2><ol><li>Statut PTPP [<a href=\"https://www.dropbox.com/s/zkfbluj6rczqo6j/statut.pdf?dl=0\">PDF</a>]</li><li>Deklaracja członkowska PTPP [<a href=\"https://www.dropbox.com/s/cfyxfk1zhfepzmy/DEKLRACAJCA-CZLONKOWSKA.pdf?dl=0\">PDF</a>]</li><li>Regulamin opłacania składek członkowskich [<a href=\"https://www.dropbox.com/s/aariv9kjmpw30ra/Regulamin%20op%C5%82acania%20sk%C5%82adek%202.pdf?dl=0\">PDF</a>]</li><li>Dekalog psychopedagoga [<a href=\"https://1drv.ms/w/s!AvmU_GTs06z6gYVnGLrhIY--ZcCQFA\">DOC</a>] [<a href=\"dekalog-psychopedagoga.html\">WWW</a>]</li></ol><div><br></div><h2><p></p><br></h2>"
+          "text": "<h2><b>Publikację szerokie</b></h2><ol><li>Zgwałcenie jako przestępstwa przeciwko wolności seksualnej i obyczajowości, mgr Dawid Karol Kołodziej, Bolesławiec 2016. <a href=\"https://www.dropbox.com/s/yrazxj8oanswtc4/gwalt-ptpp-dkk.pdf?dl=0\">[PDF]</a></li></ol><p><br></p><h2><b>Publikacje wąskie</b></h2><ol><li>Wizyta w starym teatrze, Damian Widera, Bolesławiec 09 marca 2017. <a href=\"https://1drv.ms/w/s!AvmU_GTs06z6gYRVIG1eWbw2Fg1nMg\">[DOC]</a> <a href=\"wizyta-w-starym-teatrze\">[WWW]</a><br><br></li></ol><h2>Publikacje pozostałe</h2><ol><li>Raport z ewaluacji wewnętrznej w ramach projektu \"<i>Rozpędzony Wózek Hejtu. Tolerujmy Niepełnosprawnych!</i>\", Justyna Janina Mieniek, Bolesławiec 2015.&nbsp;<a href=\"https://www.dropbox.com/home/Folder%20zespo%C5%82u%20PTPP/DOKUMENTY%20PUBLIKACJE?preview=Ewaluacja+w%C3%B3%C5%BCek-hejtu.pdf\">[PDF]</a><br><br></li></ol><h2>Dokumenty PTPP</h2><ol><li>Dekalog psychopedagoga [<a href=\"https://1drv.ms/w/s!AvmU_GTs06z6gYVnGLrhIY--ZcCQFA\">DOC</a>] [<a href=\"dekalog-psychopedagoga.html\">WWW</a>]</li></ol><div><br></div><h2><p></p><br></h2>"
         },
         {
           "_tags": [
