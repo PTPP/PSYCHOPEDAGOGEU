@@ -29,7 +29,10 @@
     "cookiesAlert": "",
     "uniqCompNum": 71,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "publikacje.html": {

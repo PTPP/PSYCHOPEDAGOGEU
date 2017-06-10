@@ -29,7 +29,10 @@
     "cookiesAlert": "",
     "uniqCompNum": 57,
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -416,7 +419,7 @@
             "showButton": false
           },
           "title": "Pomagamy i pracujemy!",
-          "text": "<p>Działamy wszędzie tam gdzie jest to możliwe! Realizujemy uchwalone działania statutowe. Nie boimy się wyzwań i stawiamy czoła trudnościom jakie niesie ze sobą funkcjonowanie w społeczeństwie.</p><p>Nasza praca wiąże się wieloma kosztami. Pomóż nam i naszym podopiecznym!<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Potrzebujemy Twojego wsparcia na realizację terapii dla osób potrzebujących!</span></p><p><b>Każda wpłacona złotówka zostanie przekazana na między innymi na:</b></p><p>terapie indywidualne dla dzieci z zaburzeniami rozwojowymi, terapię indywidualną osób dorosłych, terapie grupowe, projekty edukacyjno-terapeutyczne &nbsp;na rzecz lokalnych społeczności, pomoc prawną itp.</p><p><b>Konto Polskiego Towarzystwa Psychopedaogogicznego<br></b><b style=\"font-size: 1.07rem; line-height: 1.5;\">VWBank 52 2130 0004 2001 0818 4764 0001</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">WPŁAĆ KWOTĘ NA FUNDUSZE SPOŁECZNE PTPP I ZOSTAŃ NASZYM DONATOREM!<br>KAŻDA ZŁOTÓWKA SIĘ LICZY!</b></p>",
+          "text": "<p>Działamy wszędzie tam gdzie jest to możliwe! Realizujemy uchwalone działania statutowe. Nie boimy się wyzwań i stawiamy czoła trudnościom jakie niesie ze sobą funkcjonowanie w społeczeństwie.</p><p>Nasza praca wiąże się wieloma kosztami. Pomóż nam i naszym podopiecznym!<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Potrzebujemy Twojego wsparcia na realizację terapii dla osób potrzebujących!</span></p><p><b>Każda wpłacona złotówka zostanie przekazana na między innymi na:</b></p><p>terapie indywidualne dla dzieci z zaburzeniami rozwojowymi, terapię indywidualną osób dorosłych, terapie grupowe, projekty edukacyjno-terapeutyczne &nbsp;na rzecz lokalnych społeczności, pomoc prawną itp.</p><p><b>Konto Polskiego Towarzystwa Psychopedaogogicznego<br></b><b style=\"font-size: 1.07rem; line-height: 1.5;\">mBank 15 1140 2004 0000 3102 7598 0564</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">WPŁAĆ KWOTĘ NA FUNDUSZE SPOŁECZNE PTPP I ZOSTAŃ NASZYM DONATOREM!<br>KAŻDA ZŁOTÓWKA SIĘ LICZY!</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#msg-box8-6\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>WPŁAĆ KWOTĘ NA FUNDUSZE SPOŁECZNE</a>"
         },
         {
@@ -900,11 +903,6 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
           "_anchor": "msg-box4-1k",
           "_params": {
             "imageSize": "70",
@@ -951,7 +949,12 @@
           },
           "title": "INTRO WITH YOUTUBE VIDEO",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
@@ -1002,7 +1005,7 @@
             "overlayOpacity": 0.6,
             "overlayColor": "#7e9b9f"
           },
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+          "loadsvg": "@ADDONS_PATH@/social-feed/feed/assets/loading.svg"
         },
         {
           "_tags": [
@@ -1113,10 +1116,10 @@
               "size": 0
             }
           },
-          "text4": "Polskie Towarzystwo Psychopedagogiczne<br>KRS:&nbsp;0000586474 |&nbsp;NIP:&nbsp;6121856217 |&nbsp;REGON: 363015316<br><br><b>Konto składki członkowskie / dotacje:&nbsp;</b><br>VWBank:&nbsp;52 2130 0004 2001 0818 4764 0001<br><br>Przy przelewie z zagranicznego konta<br>kod SWIFT: INGBPLPW<br>",
+          "text4": "Polskie Towarzystwo Psychopedagogiczne<br>KRS:&nbsp;0000586474 |&nbsp;NIP:&nbsp;6121856217 |&nbsp;REGON: 363015316<br><br>Konto składki / dotacje:&nbsp;<br>mBANK 15 1140 2004 0000 3102 7598 0564",
           "title1": "Portale społecznościowe",
           "text5": "<li><a href=\"http://facebook.com/psychopedagogeu\" class=\"text-warning\">Facebook</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\"><a href=\"http://twitter.com/psychopedagogeu\" class=\"text-warning\">Twitter</a></span></li><li><a href=\"http://youtube.com/+PsychopedagogeuTV\" class=\"text-warning\">YouTube</a></li><br>",
-          "text6": "<strong>Firma</strong><br>Psychopedagog.eu Dawid Karol Kołodziej<br>NIP: 6121828675 | REGON:&nbsp;022410650<br>59-700 Bolesłdawiec, ul. Teatralna 2/5<br><br><br><strong>Konto (firmowe)&nbsp;</strong><br><b>Konto (zapłata za usługi, terapię, szkolenia itp.)</b><br>mBank: 65 1140 2004 0000 3602 5579 7599<br><br>Przy przelewie z zagranicznego konta<br>SWIFT: BREXPLPWMBK<br><br>",
+          "text6": "<strong>Firma</strong><br>Psychopedagog.eu Dawid Karol Kołodziej<br>NIP: 6121828675 | REGON:&nbsp;022410650<br>59-700 Bolesłdawiec, ul. Teatralna 2/5<br><br><br><strong>Konto (wpłaty za usługi)&nbsp;</strong><br>mBank: 65 1140 2004 0000 3602 5579 7599<br><br>Przy przelewie z zagranicznego konta<br>IBAN: PL 15 1140 2004 0000 3102 7598 0564<br>SWIFT: BREXPLPWMBK<br><br>",
           "form": {
             "title": "MESSAGE",
             "action": "ptpp@psychopedagog.eu",
