@@ -46,9 +46,7 @@
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "sitemapSwitcher": "on",
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/USER/Documents/GitHub/PSYCHOPEDAGOGEU"
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
