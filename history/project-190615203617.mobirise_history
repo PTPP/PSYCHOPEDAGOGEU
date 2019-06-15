@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "Polskie Towarzystwo Psychopedagogiczne",
-    "currentPage": "index.html",
+    "currentPage": "uslugi.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#8c008e",
+        "primaryColor": "#36004b",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#149dcc",
@@ -35,8 +35,8 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 146,
-    "versionPublish": "4.10.3",
+    "uniqCompNum": 152,
+    "versionPublish": "4.10.2",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-2-2-127x114.png",
     "noImageResize": "",
     "cookiesAlert": "",
