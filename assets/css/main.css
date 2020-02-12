@@ -2843,7 +2843,7 @@ input, select, textarea {
 		/* Box */
 
 			.box br {
-				display: none;
+				display: block !important;
 			}
 
 		/* Header */
