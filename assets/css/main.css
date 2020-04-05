@@ -2855,7 +2855,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				padding: 0 0 14em 0;
+				padding: 0 0 27vh 0;
 			}
 
 		/* Nav */
@@ -3244,3 +3244,96 @@ input, select, textarea {
 			}
 
 	}
+
+	/* --------------------------
+:: 12.0 Footer Area CSS
+-------------------------- */
+
+
+
+.footer-area {
+    position: relative;
+    z-index: 1;
+    background-color: #211b31;
+}
+
+.single-footer-widget h5 {
+    color: #fff;
+    margin-bottom: 50px;
+}
+
+.single-footer-widget ul > li > a {
+    color: rgba(226, 219, 243, 0.30);
+    margin-bottom: 10px!important;
+    display: block;
+    font-weight: 500;
+}
+
+.single-footer-widget ul > li > a:last-child {
+    margin-bottom: 0;
+}
+
+.single-footer-widget ul > li > a:hover {
+    color: #ffffff;
+}
+
+.copyright-text > p {
+    margin-bottom: 0;
+    font-size: 13px;
+}
+
+.footer-social-info > a {
+    color: #abadbe;
+    padding: 0 15px;
+    display: inline-block;
+    font-size: 13px;
+}
+
+.footer-social-info > a:hover {
+    color: #ff954f;
+}
+
+.footer-single--blog-post {
+    margin-bottom: 30px;
+}
+
+.footer-single--blog-post:last-child {
+    margin-bottom: 0;
+}
+
+.footer-single--blog-post .blog-post-date > p {
+    font-size: 12px;
+    margin-bottom: 5px;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+}
+
+.footer-single--blog-post .blog-post-title > h6 {
+    font-size: 14px;
+    margin-bottom: 0;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+}
+
+.footer-single--blog-post .blog-post-date > p:hover,
+.footer-single--blog-post .blog-post-title > h6:hover {
+    color: #ff954f;
+}
+
+.footer-single-contact-info .contact-icon {
+    margin-right: 15px;
+}
+
+.footer-bottom-area {
+	text-align: center;
+    background-color: #f2f5f3;
+    height: 60px;
+}
+
+.footerLink {
+    color: #6b7770;
+}
+
+.footerLink:hover {
+    color: #ff954f;
+}
