@@ -46,15 +46,16 @@
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/logotyp-128x128-1.png",
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "https://www.psychopedagog.org/sitemap.xml",
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "UA-50260950-3",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-50260950-3\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-50260950-3');\n</script>\n",
     "uniqCompNum": 99,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "canonical-url": false
   },
   "pages": {
     "index.html": {
