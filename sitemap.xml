@@ -9,112 +9,137 @@
 
 <url>
   <loc>https://www.psychopedagog.org/</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/index.html</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/eng/index.html</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://www.psychopedagog.org/pl/mapa-strony.html</loc>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://www.psychopedagog.org/pl/uslugi.html</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/kursy/index.html</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/czlonkostwo.html</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/dotacje.html</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/projekty.html</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/biblioteka/index.html</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.psychopedagog.org/pl/dokumenty/oferta-placowki-oswiatowe.pdf</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.psychopedagog.org/pl/dokumenty/oferta-firmy.pdf</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.psychopedagog.org/pl/dokumenty/oferta-firmy-2.pdf</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <loc>https://www.psychopedagog.org/index.html</loc>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/kursy/spoleczne.html</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/kursy/specjalistyczne.html</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/kursy/internetowe.html</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.psychopedagog.org/pl/dokumenty/oferta-placowki-oswiatowe.pdf</loc>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.psychopedagog.org/pl/dokumenty/oferta-firmy.pdf</loc>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.psychopedagog.org/pl/dokumenty/oferta-firmy-2.pdf</loc>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/kursy/instruktor.html</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/dokumenty/statut.pdf</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/dokumenty/regulamin-sk%C5%82adek.pdf</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/dokumenty/sk%C5%82adka.pdf</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/dokumenty/etyka.pdf</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.psychopedagog.org/pl/dokumenty/rodo.pdf</loc>
-  <lastmod>2020-05-26T09:20:45+00:00</lastmod>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.psychopedagog.org/pl/specjalisci/dawid-karol-kolodziej.html</loc>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.psychopedagog.org/pl/specjalisci/grzegorz-golabek.html</loc>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.psychopedagog.org/pl/biblioteka/mente/2020/MENTE1-2020.pdf</loc>
+  <lastmod>2020-06-12T07:38:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
