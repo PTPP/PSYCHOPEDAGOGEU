@@ -21,6 +21,6 @@
         attribution=setup_tool
         page_id="1568562860054649"
   theme_color="#8c52ff"
-  logged_in_greeting="Zadaj pytanie a my odpowiem najszybciej jak to możliwe 😉. www.psychopedagog.org"
-  logged_out_greeting="Zadaj pytanie a my odpowiem najszybciej jak to możliwe 😉. www.psychopedagog.org">
+  logged_in_greeting="Umów się do psychologa, psychiatry lub dietetyka 😉. www.psychopedagog.org"
+  logged_out_greeting="Umów się do psychologa, psychiatry lub dietetyka 😉. www.psychopedagog.org">
       </div>
