@@ -398,5 +398,31 @@ body{font-family: Roboto;}blockquote{border-color: #230069;}div[submit-success] 
   
   
  
-  <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)">                                         <a class="scroll-to-top-arrow"></a>                                     </button></body>
+<!-- Load Facebook SDK for JavaScript -->
+      <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v7.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/pl_PL/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!-- Your Chat Plugin code -->
+      <div class="fb-customerchat"
+        attribution=setup_tool
+        page_id="1568562860054649"
+  theme_color="#8c52ff"
+  logged_in_greeting="Umów się do psychologa, psychiatry lub dietetyka 😉"
+  logged_out_greeting="Umów się do psychologa, psychiatry lub dietetyka 😉">
+      </div>
+<p><span style="font-size: 0.1px;">tagi: czasopismo mente, czasopismo psychologiczne, blog psychologiczny, psycholog online, psychoterapia bolesławiec, najlepszy psycholog, psychoterapeuta, dobry psycholog, psychoterapia lw&oacute;wek, psycholog lw&oacute;wek, psycholog wrocław, psycholog we Wrocławiu, najlepszy psycholog we wrocławiu, psycholog wrocław online, psychoterapia online wrocław, psychoterapia wrocław, psychoterapeuta wrocław<br /></span></p>
 </html>
